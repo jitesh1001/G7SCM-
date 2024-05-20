@@ -7,3 +7,11 @@ The Hangman project is a simple, text-based word-guessing game where players try
 - *Jeet Biswas* (Roll No: 2310990534)
 - *Jitesh Jain* (Roll No: 2310990535)
 - *Juppuneet Singh* (Roll No: 2310990536)
+
+## Features
+- Randomly selects a word from a predefined list.
+- Displays the word with underscores representing unguessed letters.
+- Allows the player to guess letters one at a time.
+- Tracks the number of incorrect guesses and displays a hangman graphic.
+- Ends the game when the word is guessed or the maximum number of incorrect guesses is reached.
+- Provides feedback messages for correct and incorrect guesses.
