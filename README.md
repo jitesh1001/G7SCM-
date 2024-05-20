@@ -1,1 +1,1 @@
-# G7SCM-
+we have started the project on hangman game 
