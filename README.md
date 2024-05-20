@@ -15,3 +15,11 @@ The Hangman project is a simple, text-based word-guessing game where players try
 - Tracks the number of incorrect guesses and displays a hangman graphic.
 - Ends the game when the word is guessed or the maximum number of incorrect guesses is reached.
 - Provides feedback messages for correct and incorrect guesses.
+
+## How to Play
+1. Run the program.
+2. The game will randomly choose a word and display underscores representing each letter.
+3. Guess letters one at a time.
+4. If the guessed letter is in the word, the program will reveal its position(s).
+5. If the guessed letter is not in the word, it counts as an incorrect guess, and a part of the hangman is drawn.
+6. Continue guessing letters until you either guess the word correctly or reach the maximum number of incorrect guesses.
